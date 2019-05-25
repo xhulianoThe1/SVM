@@ -1,0 +1,29 @@
+Amazon:
+['apple', 'market', 'sale', 'deal', 'prime', 'retailer', 'online', 'billion', 'share', 'price']
+no_tweets correct prediction 59.56 %
+with_tweets correct prediction 59.56 %
+
+Apple:
+['stock', 'tech', 'say', 'billion', 'year', 'pay', 'earnings', 'samsung', 'cook', 'video']
+no_tweets correct prediction 57.37 %
+with_tweets correct prediction 57.37 %
+
+Facebook:
+['fb', 'live', 'mark', 'news', 'privacy', 'share', 'video', 'question', 'whatsapp', 'social']
+no_tweets correct prediction 56.57 %
+with_tweets correct prediction 57.17 %
+
+Google:
+['deal', 'alphabet', 'service', 'china', 'android', 'business', 'video', 'tax', 'billion', 'news']
+no_tweets correct prediction 57.57 %
+with_tweets correct prediction 56.57 %
+
+Netflix:
+['movie', 'price', 'film', 'earnings', 'report', 'push', 'global', 'deal', 'service', 'comcast']
+no_tweets correct prediction 57.77 %
+with_tweets correct prediction 59.96 %
+
+Tesla:
+['china', 'stock', 'plan', 'maker', 'market', 'production', 'investor', 'battery', 'sale', 'price']
+no_tweets correct prediction 60.96 %
+with_tweets correct prediction 59.76 %

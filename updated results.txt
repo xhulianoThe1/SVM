@@ -1,0 +1,72 @@
+FB, kernel = rbf
+average number of tweets per NYSE date 2.38
+accuracy without tweets 55.09%
+updated accuracy 55.49%
+improvement = 0.4%
+
+FB, kernel = linear
+average number of tweets per NYSE date 2.38
+accuracy without tweets 55.29%
+updated accuracy 55.49%
+improvement = 0.2%
+
+
+AMZN, kernel = rbf
+average number of tweets per NYSE date 2.17
+accuracy without tweets 57.68%
+updated accuracy 58.68%
+improvement = 1.0%
+
+AMZN, kernel = linear
+average number of tweets per NYSE date 2.17
+accuracy without tweets 58.28%
+updated accuracy 57.88%
+improvement = -0.4%
+
+AAPL, kernel = rbf
+average number of tweets per NYSE date 3.06
+accuracy without tweets 55.89%
+updated accuracy 56.89%
+improvement = 1.0%
+
+AAPL, kernel = linear
+average number of tweets per NYSE date 3.06
+accuracy without tweets 57.88%
+updated accuracy 57.49%
+improvement = -0.4%
+
+NFLX, kernel = rbf
+average number of tweets per NYSE date 0.59
+accuracy without tweets 55.29%
+updated accuracy 55.69%
+improvement = 0.4%
+
+NFLX, kernel = linear
+average number of tweets per NYSE date 0.59
+accuracy without tweets 57.49%
+updated accuracy 57.68%
+improvement = 0.2%
+
+GOOGL, kernel = rbf
+average number of tweets per NYSE date 1.73
+accuracy without tweets 58.08%
+updated accuracy 56.29%
+improvement = -1.8%
+
+GOOGL, kernel = linear
+average number of tweets per NYSE date 1.73
+accuracy without tweets 58.08%
+updated accuracy 57.68%
+improvement = -0.4%
+
+TSLA, kernel = rbf
+average number of tweets per NYSE date 1.4
+accuracy without tweets 55.69%
+updated accuracy 59.28%
+improvement = 3.59%
+
+TSLA, kernel = linear
+average number of tweets per NYSE date 1.4
+accuracy without tweets 57.49%
+updated accuracy 58.28%
+improvement = 0.8%
